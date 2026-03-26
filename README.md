@@ -178,7 +178,7 @@ The issue wasn’t just tools.
 
 It was the **desktop environment + display system**:
 
-* GNOME (especially with Wayland) is restrictive
+* GNOME (especially with Wayland) is restrictive - This is you default when you install debian linux
 * X11 hacks don’t behave reliably anymore
 
 ---
