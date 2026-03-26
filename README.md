@@ -61,7 +61,7 @@ And yeah, this could’ve easily cost ₹5k–₹10k.
 
 ---
 
-## 🔧 Recovery (this was the turning point)
+## 🔧 **GRUB** fix- Recovery (this was the turning point)
 
 Instead of giving up:
 
@@ -124,7 +124,7 @@ Now:
 
 Months later, I decided:
 
-“Let’s set a video wallpaper.”
+“Let’s set a dynamic wallpaper.”
 
 This was not necessary at all.
 
@@ -259,5 +259,3 @@ Once accidentally.
 Once intentionally.
 
 Both times I learned something real.
-
-And now I’m not scared of it anymore.
