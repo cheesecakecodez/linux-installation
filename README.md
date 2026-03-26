@@ -117,7 +117,7 @@ Now:
 ---
 
 ## This was me learning how to peer into vpc back when I was working in genome wayland by default
-![GNOME](./assets/gnome.png)
+![GNOME](/assets/genome.png)
 
 ---
 
