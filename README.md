@@ -116,6 +116,11 @@ Now:
 
 ---
 
+## This was me learning how to peer into vpc back when I was working in genome wayland by default
+![GNOME](./assets/gnome.png)
+
+---
+
 # ⏳ (Time passes…)
 
 ---
@@ -194,9 +199,12 @@ Installed it, logged in, and:
 * used built-in plugin system
 * applied video wallpaper normally
 
-No hacks. No weird errors.
+No weird errors. It worked!!
 
-Just worked.
+---
+
+#This is my new workspace now..
+![KDE](./assets/kde-wallpaper.png)
 
 ---
 
