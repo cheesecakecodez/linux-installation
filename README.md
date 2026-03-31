@@ -1,6 +1,5 @@
 # linux-installation
-here I will log everything related to bugs and what i learnt by them just about installation and stuff on linux, I don't have words. I am so proud of me today. All because I wanted live wallpapers oh my God.
-
+A personal log of my Linux (Debian) installation journey — debugging issues, understanding system internals, and learning through real mistakes. Recently switched to KDE and documented the entire process for anyone just getting started. It's a fun read.
 ### (or: how I broke my system, fixed it, and then came back months later to break it again — intentionally)
 
 ---
