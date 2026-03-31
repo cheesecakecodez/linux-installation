@@ -16,7 +16,7 @@ Not “slow internet” — literally **no network interface working**.
 
 Turns out:
 
-* my WiFi adapter didn’t have proper Linux drivers
+* my WiFi adapter didn’t have proper Linux Debian drivers
 * and I had no idea how to fix that yet
 
 So I was just sitting there in a terminal, with no internet, wondering what I just did.
@@ -25,39 +25,38 @@ So I was just sitting there in a terminal, with no internet, wondering what I ju
 
 ## 🔧 First workaround (jugaad mode)
 
-Used **USB tethering from my phone**.
+Used **Went ahead without wifi**.
 
-That gave me internet access, and honestly that felt like unlocking level 1.
+That gave me a plain black cli, I knew something was wrong so next step was removing it all together.
 
 👉 Lesson:
-If you don’t have internet, Linux becomes 10x harder instantly.
+If you don’t have internet, Linux becomes significantly harder to work with.
 
 ---
 
 ## 💥 Phase 2 — Bootloader disaster
 
-Then I made a bigger mistake.
+Then
 
 I tried removing Linux from a **dual boot setup** without really understanding how bootloaders work.
 
 Result:
 
 * black screen on boot
-* Windows not loading properly
-* system stuck in a weird state
-
+* a menu occurring in the beggining with no reason.
+* I thought removing Linux would also remove the GRUB changes it made during installation.
 I had basically messed up **GRUB / boot configuration**.
 
 ---
 
-## 😨 At this point
+##  At this point
 
 Realistically:
 
 * this is where most people stop
 * or go to a repair shop
 
-And yeah, this could’ve easily cost ₹5k–₹10k.
+and this could have cost me my data I maen removing everything factory reseting is always the easier thing to do right?
 
 ---
 
@@ -116,7 +115,7 @@ Now:
 
 ---
 
-## This was me learning how to peer into vpc back when I was working in genome wayland by default
+## This was me learning how to peer into vpc back when I was working in GENOME wayland by default.
 ![GNOME](/assets/genome.png)
 
 ---
@@ -129,7 +128,7 @@ Now:
 
 Months later, I decided:
 
-“Let’s set a dynamic wallpaper.”
+“Let’s set a live wallpaper.”
 
 This was not necessary at all.
 
@@ -183,7 +182,7 @@ The issue wasn’t just tools.
 
 It was the **desktop environment + display system**:
 
-* GNOME (especially with Wayland) is restrictive - This is you default when you install debian linux
+* GNOME (especially with Wayland) is restrictive - This is the default when you install debian linux
 * X11 hacks don’t behave reliably anymore
 
 ---
@@ -266,4 +265,9 @@ Twice.
 Once accidentally.
 Once intentionally.
 
-Both times I learned something real.
+Both times I learned something.
+
+_Thank you for reading this, do let me know if you want the complete installation process._
+<br>_You can also use Fedora or Ubuntu as per your choice._
+<br>_Here, I used Debian as my beginning in Linux. It seemed difficult in a year ago. It turned out to be easier than I thought._ 
+<br>_It's just how much familiarity you build with whatever you are learning. The more you spend your time working on something the easier it gets._
